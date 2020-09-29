@@ -1,0 +1,5 @@
+C:\Users\gulsen\source\repos\NetCoreMeetingRoomBookingSystem\NetCoreMeetingRoomBookingSystem.DAL\bin\Debug\netcoreapp3.1\NetCoreMeetingRoomBookingSystem.DAL.deps.json
+C:\Users\gulsen\source\repos\NetCoreMeetingRoomBookingSystem\NetCoreMeetingRoomBookingSystem.DAL\bin\Debug\netcoreapp3.1\NetCoreMeetingRoomBookingSystem.DAL.dll
+C:\Users\gulsen\source\repos\NetCoreMeetingRoomBookingSystem\NetCoreMeetingRoomBookingSystem.DAL\obj\Debug\netcoreapp3.1\NetCoreMeetingRoomBookingSystem.DAL.csprojAssemblyReference.cache
+C:\Users\gulsen\source\repos\NetCoreMeetingRoomBookingSystem\NetCoreMeetingRoomBookingSystem.DAL\obj\Debug\netcoreapp3.1\NetCoreMeetingRoomBookingSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\gulsen\source\repos\NetCoreMeetingRoomBookingSystem\NetCoreMeetingRoomBookingSystem.DAL\obj\Debug\netcoreapp3.1\NetCoreMeetingRoomBookingSystem.DAL.AssemblyInfo.cs
